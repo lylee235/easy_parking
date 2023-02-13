@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    min-height: 100vh;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: green;
+}
